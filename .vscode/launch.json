@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "run explorer",
+      "type": "coreclr",
+      "request": "launch",
+      "program": "${workspaceFolder}\\Raster.Explorer\\bin\\Debug\\net8.0\\Raster.Explorer.dll",
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}

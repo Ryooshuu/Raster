@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Raster.Explorer\Raster.Explorer.csproj" Type="Classic C#" />
+  <Project Path="Raster.Generators\Raster.Generators.csproj" Type="Classic C#" />
+  <Project Path="Raster.Tests\Raster.Tests.csproj" Type="Classic C#" />
+  <Project Path="Raster\Raster.csproj" Type="Classic C#" />
+</Solution>
